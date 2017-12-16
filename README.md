@@ -31,5 +31,3 @@ To help illustrate the crawling examples we have created a sample website at htt
 
 * [Building RESTful Python Web Services](https://www.packtpub.com/application-development/building-restful-python-web-services?utm_source=github&utm_medium=repository&utm_campaign=9781786462251)
 
-### Suggestions and Feedback
-[Click here](https://docs.google.com/forms/d/e/1FAIpQLSe5qwunkGf6PUvzPirPDtuy1Du5Rlzew23UBp2S-P3wB-GcwQ/viewform) if you have any feedback or suggestions.
